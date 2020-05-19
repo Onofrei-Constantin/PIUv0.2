@@ -1,0 +1,11 @@
+C:\Users\viper\Documents\GitHub\PIU\NivelAccesDate\bin\Debug\NivelAccesDate.dll.config
+C:\Users\viper\Documents\GitHub\PIU\NivelAccesDate\bin\Debug\NivelAccesDate.dll
+C:\Users\viper\Documents\GitHub\PIU\NivelAccesDate\bin\Debug\NivelAccesDate.pdb
+C:\Users\viper\Documents\GitHub\PIU\NivelAccesDate\bin\Debug\LibrarieModele.dll
+C:\Users\viper\Documents\GitHub\PIU\NivelAccesDate\bin\Debug\LibrarieModele.pdb
+C:\Users\viper\Documents\GitHub\PIU\NivelAccesDate\bin\Debug\LibrarieModele.dll.config
+C:\Users\viper\Documents\GitHub\PIU\NivelAccesDate\obj\Debug\NivelAccesDate.csprojAssemblyReference.cache
+C:\Users\viper\Documents\GitHub\PIU\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CoreCompileInputs.cache
+C:\Users\viper\Documents\GitHub\PIU\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CopyComplete
+C:\Users\viper\Documents\GitHub\PIU\NivelAccesDate\obj\Debug\NivelAccesDate.dll
+C:\Users\viper\Documents\GitHub\PIU\NivelAccesDate\obj\Debug\NivelAccesDate.pdb
